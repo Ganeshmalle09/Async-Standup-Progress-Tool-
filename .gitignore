@@ -1,0 +1,17 @@
+# Dependencies
+node_modules
+
+# Production
+.next
+dist
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# Editor
+.vscode
+.idea
